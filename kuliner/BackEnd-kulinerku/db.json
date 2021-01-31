@@ -247,6 +247,30 @@
         "gambar": "kentang-goreng.jpg"
       },
       "id": 4
+    },
+    {
+      "jumlah_pemesanan": "1",
+      "products": {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg"
+      },
+      "id": 5
+    },
+    {
+      "jumlah_pemesanan": "2",
+      "products": {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg"
+      },
+      "id": 6
     }
   ],
   "pesanans": []
