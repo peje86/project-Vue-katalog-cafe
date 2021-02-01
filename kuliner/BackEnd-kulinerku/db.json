@@ -198,20 +198,7 @@
   "keranjangs": [
     {
       "jumlah_pemesanan": "1",
-      "keterangan": "cccccccc",
-      "products": {
-        "id": 1,
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      },
-      "id": 1
-    },
-    {
-      "jumlah_pemesanan": "1",
-      "keterangan": "vvvvvvvv",
+      "keterangan": "vvvvvv",
       "products": {
         "id": 2,
         "kode": "K-02",
@@ -220,11 +207,11 @@
         "is_ready": true,
         "gambar": "nasi-goreng-telor.jpg"
       },
-      "id": 2
+      "id": 1
     },
     {
       "jumlah_pemesanan": "1",
-      "keterangan": "bbbbbbbbb",
+      "keterangan": "jembuuuuuuuuuut",
       "products": {
         "id": 5,
         "kode": "K-05",
@@ -233,44 +220,31 @@
         "is_ready": true,
         "gambar": "mie-goreng.jpg"
       },
+      "id": 2
+    },
+    {
+      "jumlah_pemesanan": "1",
+      "products": {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg"
+      },
       "id": 3
     },
     {
-      "jumlah_pemesanan": "1",
-      "keterangan": "cccccccc",
+      "jumlah_pemesanan": "4",
       "products": {
-        "id": 8,
-        "kode": "K-08",
-        "nama": "Kentang Goreng",
-        "harga": 5000,
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
         "is_ready": true,
-        "gambar": "kentang-goreng.jpg"
+        "gambar": "sate-ayam.jpg"
       },
       "id": 4
-    },
-    {
-      "jumlah_pemesanan": "1",
-      "products": {
-        "id": 8,
-        "kode": "K-08",
-        "nama": "Kentang Goreng",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "kentang-goreng.jpg"
-      },
-      "id": 5
-    },
-    {
-      "jumlah_pemesanan": "2",
-      "products": {
-        "id": 8,
-        "kode": "K-08",
-        "nama": "Kentang Goreng",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "kentang-goreng.jpg"
-      },
-      "id": 6
     }
   ],
   "pesanans": []
