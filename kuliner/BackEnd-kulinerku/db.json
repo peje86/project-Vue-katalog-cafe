@@ -195,57 +195,87 @@
       "gambar": "bintang.jpg"
     }
   ],
-  "keranjangs": [
+  "keranjangs": [],
+  "pesanans": [
     {
-      "jumlah_pemesanan": "1",
-      "keterangan": "vvvvvv",
-      "products": {
-        "id": 2,
-        "kode": "K-02",
-        "nama": "Nasi Goreng Telor",
-        "harga": 14000,
-        "is_ready": true,
-        "gambar": "nasi-goreng-telor.jpg"
-      },
+      "nama": "ssssss",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "vvvvvv",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telor",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 1
+        }
+      ],
       "id": 1
     },
     {
-      "jumlah_pemesanan": "1",
-      "keterangan": "jembuuuuuuuuuut",
-      "products": {
-        "id": 5,
-        "kode": "K-05",
-        "nama": "Mie Goreng",
-        "harga": 13000,
-        "is_ready": true,
-        "gambar": "mie-goreng.jpg"
-      },
+      "nama": "vvvvvv",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "vvvvvv",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        }
+      ],
       "id": 2
     },
     {
-      "jumlah_pemesanan": "1",
-      "products": {
-        "id": 8,
-        "kode": "K-08",
-        "nama": "Kentang Goreng",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "kentang-goreng.jpg"
-      },
+      "nama": "ggggggg",
+      "noMeja": "4",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "eeeeeee",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telor",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 1
+        }
+      ],
       "id": 3
     },
     {
-      "jumlah_pemesanan": "4",
-      "products": {
-        "id": 1,
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      },
+      "nama": "ccccccccc",
+      "noMeja": "5",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "vvvvvvvv",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        }
+      ],
       "id": 4
     }
-  ],
-  "pesanans": []
+  ]
 }
